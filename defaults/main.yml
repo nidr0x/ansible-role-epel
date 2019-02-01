@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-epel
+
+enable_repo_epel: present
